@@ -1,0 +1,6 @@
+D:\Users\ezequiel.binker\Desktop\patrones\patrones comportamiento\bin\Debug\patrones comportamiento.exe.config
+D:\Users\ezequiel.binker\Desktop\patrones\patrones comportamiento\bin\Debug\patrones comportamiento.exe
+D:\Users\ezequiel.binker\Desktop\patrones\patrones comportamiento\bin\Debug\patrones comportamiento.pdb
+D:\Users\ezequiel.binker\Desktop\patrones\patrones comportamiento\obj\Debug\patrones comportamiento.csprojResolveAssemblyReference.cache
+D:\Users\ezequiel.binker\Desktop\patrones\patrones comportamiento\obj\Debug\patrones comportamiento.exe
+D:\Users\ezequiel.binker\Desktop\patrones\patrones comportamiento\obj\Debug\patrones comportamiento.pdb

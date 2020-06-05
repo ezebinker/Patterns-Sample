@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{D8F1706D-E6B1-442D-BB7C-47EAFF3F79CB}|Default">
+  <MonoDevelop.Ide.ItemProperties.CreationalPatterns PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Patterns-Sample" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <AuthorInfo Name="ezequielbinker" Email="ezebinker@gmail.com" Copyright="Ezequiel Binker" Company="" Trademark="" />
+</Properties>

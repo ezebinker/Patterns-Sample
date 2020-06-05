@@ -1,0 +1,6 @@
+D:\Users\ezequiel.binker\Desktop\patrones\patrones estructurales\bin\Debug\patrones estructurales.exe.config
+D:\Users\ezequiel.binker\Desktop\patrones\patrones estructurales\bin\Debug\patrones estructurales.exe
+D:\Users\ezequiel.binker\Desktop\patrones\patrones estructurales\bin\Debug\patrones estructurales.pdb
+D:\Users\ezequiel.binker\Desktop\patrones\patrones estructurales\obj\Debug\patrones estructurales.csprojResolveAssemblyReference.cache
+D:\Users\ezequiel.binker\Desktop\patrones\patrones estructurales\obj\Debug\patrones estructurales.exe
+D:\Users\ezequiel.binker\Desktop\patrones\patrones estructurales\obj\Debug\patrones estructurales.pdb

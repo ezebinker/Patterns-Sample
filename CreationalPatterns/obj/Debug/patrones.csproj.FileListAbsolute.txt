@@ -1,0 +1,6 @@
+D:\Users\ezequiel.binker\Desktop\patrones\patrones\bin\Debug\patrones.exe.config
+D:\Users\ezequiel.binker\Desktop\patrones\patrones\obj\Debug\patrones.csprojResolveAssemblyReference.cache
+D:\Users\ezequiel.binker\Desktop\patrones\patrones\bin\Debug\patrones.exe
+D:\Users\ezequiel.binker\Desktop\patrones\patrones\bin\Debug\patrones.pdb
+D:\Users\ezequiel.binker\Desktop\patrones\patrones\obj\Debug\patrones.exe
+D:\Users\ezequiel.binker\Desktop\patrones\patrones\obj\Debug\patrones.pdb

@@ -1,0 +1,7 @@
+/Users/ezequielbinker/Downloads/Patterns-Sample/patrones/bin/Debug/patrones.exe.config
+/Users/ezequielbinker/Downloads/Patterns-Sample/patrones/bin/Debug/patrones.exe
+/Users/ezequielbinker/Downloads/Patterns-Sample/patrones/bin/Debug/patrones.pdb
+/Users/ezequielbinker/Downloads/Patterns-Sample/patrones/obj/Debug/CreationalPatterns.csprojAssemblyReference.cache
+/Users/ezequielbinker/Downloads/Patterns-Sample/patrones/obj/Debug/CreationalPatterns.csproj.CoreCompileInputs.cache
+/Users/ezequielbinker/Downloads/Patterns-Sample/patrones/obj/Debug/patrones.exe
+/Users/ezequielbinker/Downloads/Patterns-Sample/patrones/obj/Debug/patrones.pdb
