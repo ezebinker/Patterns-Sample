@@ -11,7 +11,7 @@ En este proyecto se detallan ejemplos de:
 * Prototype
 * Singleton
 
-## Patrones de Comportamiento (Behaviour Patterns)
+## Patrones de Comportamiento (Behavioral Patterns)
 Son patrones relacionados a la asignación de **responsabilidades** entre clases
 
 Encontrarás un archivo .cs para cada uno de los siguientes patrones:
